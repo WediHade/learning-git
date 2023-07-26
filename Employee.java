@@ -4,6 +4,7 @@ public class Employee {
 
 		Employee emp = new Employee();
 		emp.getId();
+		System.out.println("Name : " + emp.geName());
 	}
 
 
